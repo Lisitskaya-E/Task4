@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606937534 source:c:\users\kapka\onedrive\Рабочий стол\task4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<stdbool.h>
+
